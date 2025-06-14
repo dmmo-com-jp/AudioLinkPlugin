@@ -13,7 +13,7 @@ dB表記ではなく、音声ファイルのビットレートから相対的に
 名前の通りAエフェクトが真値を返した時に音量を上げるエフェクト
 負の値上げることも可能。
 ## インストール方法
-1.このプラグインを[Releases](https://github.com/dmmo-com-jp/RhythmAnimation/releases)からインストールする。
+1.このプラグインを[Releases](https://github.com/dmmo-com-jp/AudioLinkPlugin/releases)からインストールする。
 
 2.端末に落としたプラグインをダブルクリックしてYMM4にインストールする。
 
