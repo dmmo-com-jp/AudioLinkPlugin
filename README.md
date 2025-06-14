@@ -1,0 +1,2 @@
+# AudioLinkPlugin
+条件が真なら対応している音声エフェクトを実行するYMM4Plugin
